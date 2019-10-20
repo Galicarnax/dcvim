@@ -1,0 +1,50 @@
+<Program>
+  <ID>{Down-Key-Emulator}</ID>
+  <Command>%DC_CONFIG_PATH%/dcvim/mswin/keyemulate.exe</Command>
+  <Params>Down</Params>
+</Program>
+<Program>
+  <ID>{Down-5-Key-Emulator}</ID>
+  <Command>%DC_CONFIG_PATH%/dcvim/mswin/keyemulate.exe</Command>
+  <Params>Down 5</Params>
+</Program>
+<Program>
+  <ID>{Up-Key-Emulator}</ID>
+  <Command>%DC_CONFIG_PATH%/dcvim/mswin/keyemulate.exe</Command>
+  <Params>Up</Params>
+</Program>
+<Program>
+  <ID>{Up-5-Key-Emulator}</ID>
+  <Command>%DC_CONFIG_PATH%/dcvim/mswin/keyemulate.exe</Command>
+  <Params>Up 5</Params>
+</Program>
+<Program>
+  <ID>{Left-Key-Emulator}</ID>
+  <Command>%DC_CONFIG_PATH%/dcvim/mswin/keyemulate.exe</Command>
+  <Params>Left</Params>
+</Program>
+<Program>
+  <ID>{PageDown-Key-Emulator}</ID>
+  <Command>%DC_CONFIG_PATH%/dcvim/mswin/keyemulate.exe</Command>
+  <Params>PageDown</Params>
+</Program>
+<Program>
+  <ID>{PageUp-Key-Emulator}</ID>
+  <Command>%DC_CONFIG_PATH%/dcvim/mswin/keyemulate.exe</Command>
+  <Params>PageUp</Params>
+</Program>
+<Program>
+  <ID>{Home-Key-Emulator}</ID>
+  <Command>%DC_CONFIG_PATH%/dcvim/mswin/keyemulate.exe</Command>
+  <Params>Home</Params>
+</Program>
+<Program>
+  <ID>{Right-Key-Emulator}</ID>
+  <Command>%DC_CONFIG_PATH%/dcvim/mswin/keyemulate.exe</Command>
+  <Params>Right</Params>
+</Program>
+<Program>
+  <ID>{End-Key-Emulator}</ID>
+  <Command>%DC_CONFIG_PATH%/dcvim/mswin/keyemulate.exe</Command>
+  <Params>End</Params>
+</Program>
