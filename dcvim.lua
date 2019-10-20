@@ -95,9 +95,6 @@ if mode == nil or mode == "" then
     elseif key == "G" then
         DC.ExecuteCommand("cm_GoToLastFile")
         
-    -- elseif key == "R" then
-        -- DC.ExecuteCommand("cm_RenameOnly")
-        
     elseif key == "l" then
         local fileattr = SysUtils.FileGetAttr(param[3])
         -- apply Open command only if directory is under cursor
@@ -156,7 +153,6 @@ if mode == nil or mode == "" then
         DC.ExecuteCommand("cm_Refresh")
         
     elseif key == "z" then
-        -- DC.LogWrite("DDDDDD", 0, true, false)
         local fn = param[2] .. delim .. "dcvim" .. delim .. "vars" .. delim .. "panel"
         local fp = io.open(fn, "r")
         local w = nil
@@ -183,7 +179,6 @@ if mode == nil or mode == "" then
                 w = 50
             end
         end
-        -- DC.LogWrite("w: " .. w, 0, true, false)
         DC.ExecuteCommand("cm_PanelsSplitterPerPos", "splitpct=" .. w)
         
     elseif key == ">" then
