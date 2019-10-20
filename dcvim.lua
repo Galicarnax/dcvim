@@ -1,6 +1,6 @@
 local param = {...}
 
--- script accepts three params: the key, %dc_config_path% and path of current filer/dir
+-- script accepts four params: the key, %dc_config_path%, path of current filer/dir and path of the active panel
 if #param < 4 then
     DC.LogWrite("dcvim script called with less than 3 parameters", 2, true, false)
     return
