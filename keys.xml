@@ -1,0 +1,790 @@
+      <Hotkey>
+        <Shortcut>Shift+H</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>H</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+L</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>L</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Num/</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>/</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>/</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>/</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+;</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>:</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+G</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>G</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+R</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>R</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>     
+      <Hotkey>
+        <Shortcut>J</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>j</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>K</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>k</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>H</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>h</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>L</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>l</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>1</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>1</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>2</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>2</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>3</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>3</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>4</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>4</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>5</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>5</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>6</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>6</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>7</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>7</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>8</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>8</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>9</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>9</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>0</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>0</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Q</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>q</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+Q</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>Q</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>W</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>w</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>E</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>e</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+E</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>E</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>R</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>r</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>T</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>t</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Y</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>y</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>U</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>u</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>I</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>i</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>O</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>o</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>P</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>p</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>[</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>[</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>]</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>]</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>A</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>a</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>S</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>s</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>D</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>d</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>G</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>g</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>;</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>;</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>`</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>`</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>'</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>'</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Z</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>z</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>X</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>x</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>C</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>c</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>V</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>v</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>B</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>b</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>N</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>n</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>,</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>,</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>.</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>.</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>F</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>f</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>M</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>m</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+J</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>j</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+K</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>k</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+D</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>D</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Esc</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>esc</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+[</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>{</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+]</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>}</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+,</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>&lt;</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+.</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>&gt;</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+1</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>!</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+2</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>@</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+3</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>#</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+5</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>%</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+4</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>$</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+6</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>^</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+7</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>&amp;</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+8</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>*</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+9</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>(</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+0</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>)</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+-</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>_</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>-</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>-</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+=</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>+</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>=</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>=</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>\</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>\</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+\</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>|</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+`</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>~</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+/</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>?</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
+      <Hotkey>
+        <Shortcut>Shift+'</Shortcut>
+        <Command>cm_ExecuteScript</Command>
+        <Param>%DC_CONFIG_PATH%/dcvim/dcvim.lua</Param>
+        <Param>"</Param>
+        <Param>%DC_CONFIG_PATH%</Param>
+        <Param>%"0%p</Param>
+        <Param>%"0%Ds</Param>
+        <Control>Files Panel</Control>
+      </Hotkey>
