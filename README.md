@@ -97,6 +97,7 @@ Keys | Description
 `u` | swap panels
 `R` | refresh
 `e` | edit file
+`gt` | open terminals
 `go` | open Options window
 `Esc` | cancel previous "modifier"-key - `g`, `f`, `y`, etc. (back to "normal" mode)
 `Q` | quit
