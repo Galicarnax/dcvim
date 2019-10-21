@@ -258,6 +258,8 @@ elseif mode == "g" then
         DC.ExecuteCommand("cm_CountDirContent")
     elseif key == "o" then
         DC.ExecuteCommand("cm_Options")
+    elseif key == "t" then
+        DC.ExecuteCommand("cm_RunTerm")
     elseif key == "/" then
         DC.ExecuteCommand("cm_ChangeDirToRoot")
     end
