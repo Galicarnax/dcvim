@@ -35,7 +35,6 @@ function emulateKey(ekey, count)
             DC.ExecuteCommand("cm_ExecuteToolBarItem", "ToolItemID={" .. ekey .. "-Key-Emulator}")
         end
     end
-    return
 end
 
 local mode = nil
@@ -63,19 +62,23 @@ if mode == nil or mode == "" then
         end
         
     elseif key == "j" then
-        emulateKey("Down", 1)
+        DC.ExecuteCommand("cm_GoToNextEntry")
         
     elseif key == "h" then
         DC.ExecuteCommand("cm_ChangeDirToParent")
         
     elseif key == "k" then
-        emulateKey("Up", 1)
+        DC.ExecuteCommand("cm_GoToPrevEntry")
         
     elseif key == "[" then
-        emulateKey("Up", 5)
+        for cc = 1, 5 do
+            DC.ExecuteCommand("cm_GoToPrevEntry")
+        end
         
     elseif key == "]" then
-        emulateKey("Down", 5)
+        for cc = 1, 5 do
+            DC.ExecuteCommand("cm_GoToNextEntry")
+        end
         
     elseif key == "u" then
         DC.ExecuteCommand("cm_Exchange")
@@ -93,7 +96,7 @@ if mode == nil or mode == "" then
         DC.ExecuteCommand("cm_QuickSearch")
         
     elseif key == "G" then
-        DC.ExecuteCommand("cm_GoToLastFile")
+        DC.ExecuteCommand("cm_GoToLastEntry")
         
     elseif key == "l" then
         local fileattr = SysUtils.FileGetAttr(param[3])
@@ -237,7 +240,7 @@ if mode == "f" then
     
 elseif mode == "g" then
     if key == "g" then
-        DC.ExecuteCommand("cm_GotoFirstFile")
+        DC.ExecuteCommand("cm_GoToFirstEntry")
     elseif key == "j" then
         emulateKey("PageDown", 1)
     elseif key == "k" then
